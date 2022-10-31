@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "firstName": "dvd",
+      "surName": "dvd",
+      "email": "dvfv",
+      "gender": "2",
+      "birthday": "323",
+      "tel": "244",
+      "country": "dcd",
+      "city": "cdaca",
+      "address": "dcaddvwdv",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
